@@ -9,17 +9,3 @@
 
 .text-center {
 }
-#create_event {
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-}
-
-#create_event:hover {
-  background-color: #4CAF50; /* Green */
-  color: white;
-}
-
-/*.row {
-	background-color: orange;
-}
-	*/
